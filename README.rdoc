@@ -1,1 +1,4 @@
-== CODE RETREAT
+== PLAIN RUBY PROJECT TEMPLATE
+
+  When necessary create a "plain ruby project", here it is!
+    PS: Using RSpec
