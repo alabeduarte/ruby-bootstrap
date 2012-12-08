@@ -1,4 +1,9 @@
 == PLAIN RUBY PROJECT TEMPLATE
 
-  When necessary create a "plain ruby project", here it is!
-    PS: Using RSpec
+===When necessary create a "plain ruby project", here it is!
+  
+=== Installing:
+  $ bundle
+
+=== Running tests using guard
+  $ guard
