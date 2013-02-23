@@ -3,6 +3,8 @@
 ===When necessary create a "plain ruby project", here it is!
   
 === Installing:
+  $ git clone https://github.com/alabeduarte/ruby_bootstrap.git my_ruby_project
+  $ rm -rf .git
   $ bundle
 
 === Running tests using guard
