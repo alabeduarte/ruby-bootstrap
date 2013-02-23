@@ -1,6 +1,5 @@
-== PLAIN RUBY PROJECT TEMPLATE
-
-===When necessary create a "plain ruby project", here it is!
+== RUBY BOOTSTRAP
+=== The plain ruby project template
   
 === Installing:
   $ git clone https://github.com/alabeduarte/ruby_bootstrap.git my_ruby_project
