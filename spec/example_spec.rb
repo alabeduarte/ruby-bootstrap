@@ -1,4 +1,4 @@
 require 'spec_helper'
 describe Example do
-  it { subject.say_hello.should == "hello!" }
+  it { expect(subject.say_hello).to eq 'hello!' }
 end
