@@ -11,10 +11,5 @@ The plain ruby project template
 
 ### Running unit tests
 ```
-  $ rake spec
-```
-
-### Tests runs on every code changes
-```
-  $ guard
+  $ bundle exec rake spec
 ```
