@@ -1,5 +1,5 @@
 class Example
   def say_hello
-    "hello!"
+    'hello!'
   end
 end
