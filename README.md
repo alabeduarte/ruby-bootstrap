@@ -1,4 +1,4 @@
-ruby_bootstrap
+ruby-bootstrap
 ==============
 
 The plain ruby project template
